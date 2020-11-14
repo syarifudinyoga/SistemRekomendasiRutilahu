@@ -1,0 +1,1 @@
+<iframe src="<?php echo base_url('proposal/'.$pemohon[0]->proposal); ?>" width="100%" height="100%"></iframe>
